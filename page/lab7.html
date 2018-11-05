@@ -8,11 +8,12 @@
             font-family: Tahoma;
             font-size: 15px;
         }
-        div.header{
+        .header{
             border: 1px solid black;
             height: 100px;
-            position: relative;
+            /*position: fixed;*/
             background: #0cb4ff;
+            width: 100%;
         }
         .header .logo{
             width: 60%;
@@ -39,14 +40,13 @@
         .menu {
             margin-left: 850px;
         }
-        /*.Body{*/
-            /*height: auto;*/
-        /*}*/
-        .call-to-action{
+        .title{
             border: 2px solid black;
             height: 100px;
             background: #1796CA;
             color: white;
+            /*position: absolute;*/
+            width: 100%;
         }
         .start{
             text-align: center;
@@ -61,7 +61,7 @@
         }
         .row{
             border: 2px solid black;
-            height: 400px;
+            height: 500px;
             overflow: auto;
         }
         .row .col{
@@ -93,7 +93,6 @@
 <body>
 <div class="header">
     <div class="logo">
-        <!--<img src="http://syntaxxx.com/wp-content/uploads/2014/08/html5-logo-600-580x580.jpg" alt="">-->
         <img src="https://image.freepik.com/free-icon/html-5-logo_318-53222.jpg" alt="">
         <span class="text">
                 HTML Course
@@ -110,12 +109,11 @@
         <span>|</span>
     </div>
 </div>
-<div class="Body">
-<div class="call-to-action">
-    <div class="start">"Tell me and i forget , teach me and i may remember, involve me and i learn."</div>
-    <div class="end">~Benjamin Franklin</div>
-</div>
 <div class="row">
+    <div class="title">
+        <div class="start">"Tell me and i forget , teach me and i may remember, involve me and i learn."</div>
+        <div class="end">~Benjamin Franklin</div>
+    </div>
     <div class="col">
         <a href="#">Semantic Tag</a><br/>
         It was popularised in the 1960s
@@ -228,7 +226,6 @@
 </div>
 <div class="footer">
     <p>Copyright @ 2017 Akoseto</p>
-</div>
 </div>
 </body>
 </html>
