@@ -68,7 +68,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Youtube/page/index-youtube.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="28">
               <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#body#0;n#html#1;n#!!top" expanded="true" />
@@ -217,12 +217,12 @@
       <workItem from="1541349343118" duration="2490000" />
       <workItem from="1541406475478" duration="506000" />
       <workItem from="1541587999330" duration="9749000" />
-      <workItem from="1541673947535" duration="2775000" />
+      <workItem from="1541673947535" duration="3018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53010000" />
+    <option name="totallyTimeSpent" value="53253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1342" height="745" extended-state="0" />
@@ -239,7 +239,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32924962" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.8621746" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -334,7 +334,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Youtube/page/index-youtube.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="28">
           <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#table#0;n#body#0;n#html#1;n#!!top" expanded="true" />
