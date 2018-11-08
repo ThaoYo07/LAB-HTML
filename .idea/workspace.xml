@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fde56eee-4d47-495e-a2e6-e109953d88ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Reponsive/css/Reponsive-Demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reponsive/page/Reponsive-Demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube/css/index-youtube.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube/page/index-youtube.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fde56eee-4d47-495e-a2e6-e109953d88ad" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -223,12 +217,12 @@
       <workItem from="1541349343118" duration="2490000" />
       <workItem from="1541406475478" duration="506000" />
       <workItem from="1541587999330" duration="9749000" />
-      <workItem from="1541673947535" duration="2484000" />
+      <workItem from="1541673947535" duration="2775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52719000" />
+    <option name="totallyTimeSpent" value="53010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1342" height="745" extended-state="0" />
