@@ -1,1 +1,1 @@
-<?php header( 'Location: login-form.html' ) ;  ?>
+<?php include_once("login-form.html");  ?>
