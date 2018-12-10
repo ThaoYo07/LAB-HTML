@@ -1,0 +1,148 @@
+* {
+    box-sizing: border-box;
+    margin: 7px;
+}
+
+html {
+    font-family: "Lucida Sans", sans-serif;
+    font-size: 16px;
+}
+
+.header{
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    /*background-image: url("http://images6.fanpop.com/image/photos/40200000/My-Neighbor-Totoro-my-neighbor-totoro-40200941-500-200.gif");*/
+}
+
+.header-0 {
+    width: 100%;
+    height: 100px;
+}
+
+body{
+    /*background-image: url("https://c8.alamy.com/compfr/mp5m7g/stock-photo-style-maquette-de-bureau-mariage-feminin-avec-gypsophile-gypsophila-fleurs-sur-fond-bleu-lespace-vide-floral-frame-bandeau-web-vue-den-haut-sav-nous-sommes-carres-pour-blog-ou-les-medias-sociaux-mp5m7g.jpg");*/
+    background-image: url("https://i.pinimg.com/originals/41/1c/ac/411cac46bbe8e9122f0195aa8ae9b375.jpg");
+    /*background-image: url("http://hinhnenppt.com/uploads/images/hinh-nen-powerpoint-hoat-hinh-15-hinh-nen-powerpoint-meo-chi-dang-yeu-1491840242-6.jpg");*/
+    /*background-image: url("https://i.pinimg.com/originals/d0/11/03/d01103cc20657550c92f0be6f2892f9a.jpg");*/
+    /*background-image: url("http://www.dongnutythanhthe.net/wp-content/uploads/2017/03/tn1.jpg");*/
+    /*background-image: url("https://d3.violet.vn/uploads/previews/document/0/220/490/0.bgnen021.gif");*/
+    /*background-image: url("http://hinhnenpowerpointdep.com/uploads/images/20-hinh-nen-powerpoint-hoa-dao-ngay-tet-cuc-dep-1484152132-14.jpg");*/
+}
+
+.header .logo{
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+
+.text {
+    font-size: x-large;
+}
+
+a {
+    color: firebrick;
+}
+
+.menu {
+    padding-top: 4%;
+    padding-left: 50%;
+}
+
+.song-item {
+    /*display: list-item;*/
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.song-item:after {
+    content: '';
+    clear: both;
+    display: table;
+}
+.song-index {
+    float: left;
+    width: 10%;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2%;
+    padding-left: 1%;
+}
+.song-thumbnail {
+    float: left;
+    width: 10%;
+}
+.song-thumbnail img {
+    width: 100%;
+    border-radius: 10px;
+}
+.song-infor {
+    float: left;
+    padding-top: 1%;
+    width: 40%;
+    margin-left: 5%;
+}
+.song-infor .song-name {
+    color: #168fc1;
+    font-weight: bold;
+}
+.song-infor .song-singer {
+    font-weight: lighter;
+    color: #747474;
+}
+.song-control {
+    margin-left: 5%;
+    float: left;
+    padding-top: 3%;
+    color: dodgerblue;
+    cursor: pointer;
+    text-decoration: underline;
+    width: 10%;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+/* For mobile phones: */
+[class*='col-']{
+    width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
