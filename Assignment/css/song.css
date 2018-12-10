@@ -16,24 +16,17 @@ html {
 }
 
 .header-0 {
-    width: 100%;
+    width: 200%;
     height: 100px;
-}
-
-body{
-    /*background-image: url("https://c8.alamy.com/compfr/mp5m7g/stock-photo-style-maquette-de-bureau-mariage-feminin-avec-gypsophile-gypsophila-fleurs-sur-fond-bleu-lespace-vide-floral-frame-bandeau-web-vue-den-haut-sav-nous-sommes-carres-pour-blog-ou-les-medias-sociaux-mp5m7g.jpg");*/
-    background-image: url("https://i.pinimg.com/originals/41/1c/ac/411cac46bbe8e9122f0195aa8ae9b375.jpg");
-    /*background-image: url("http://hinhnenppt.com/uploads/images/hinh-nen-powerpoint-hoat-hinh-15-hinh-nen-powerpoint-meo-chi-dang-yeu-1491840242-6.jpg");*/
-    /*background-image: url("https://i.pinimg.com/originals/d0/11/03/d01103cc20657550c92f0be6f2892f9a.jpg");*/
-    /*background-image: url("http://www.dongnutythanhthe.net/wp-content/uploads/2017/03/tn1.jpg");*/
-    /*background-image: url("https://d3.violet.vn/uploads/previews/document/0/220/490/0.bgnen021.gif");*/
-    /*background-image: url("http://hinhnenpowerpointdep.com/uploads/images/20-hinh-nen-powerpoint-hoa-dao-ngay-tet-cuc-dep-1484152132-14.jpg");*/
 }
 
 .header .logo{
     text-align: center;
-    width: 50%;
     float: left;
+}
+
+body{
+    background-image: url("https://i.pinimg.com/originals/41/1c/ac/411cac46bbe8e9122f0195aa8ae9b375.jpg");
 }
 
 .text {

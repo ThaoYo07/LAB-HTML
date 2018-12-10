@@ -20,7 +20,8 @@ html {
 }
 
 body{
-    background-image: url("https://i.pinimg.com/originals/d0/11/03/d01103cc20657550c92f0be6f2892f9a.jpg");
+    background-image: url("https://i.pinimg.com/originals/41/1c/ac/411cac46bbe8e9122f0195aa8ae9b375.jpg");
+    /*background-image: url("https://i.pinimg.com/originals/d0/11/03/d01103cc20657550c92f0be6f2892f9a.jpg");*/
 }
 
 .header .logo{
@@ -39,7 +40,7 @@ a {
 
 .menu {
     padding-top: 4%;
-    padding-left: 50%;
+    /*padding-left: 50%;*/
 }
 
 p {
